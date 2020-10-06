@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NVHJw6wtJGIt4Ek+4vy/ykve9K4lHAZEHeyElC2bDjYe7KOjZCj52yxSYJjpHhZxTOhMm8H6dH15EoMzRlDsBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vlad\\Desktop\\4 Kurs\\android\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
